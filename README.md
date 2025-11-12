@@ -57,6 +57,19 @@ Social media has become an integral part of modern life, but its impact on wellâ
 
 ---
 
+## Notebook
+Notebook sctructure:
+- Title, main objectives and key questions
+- Import libraries
+- Load data
+- Check the data (cleaning and preprocessing)
+- Feature Engeeniring
+- Exploratory Data Analysis (EDA) with visualizations and insights
+- Machine Learning
+- Grand Summary
+  
+---
+
 ## Key Findings
 After the correlation study of the visuals attached below, we can observe some relationships between data parameters that may lead to the following conclusions:
 ![Correlation Heatmap](correlation_heatmap.png)
