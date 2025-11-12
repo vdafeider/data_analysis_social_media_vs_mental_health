@@ -143,7 +143,7 @@ Open `da_social_media_stress.ipynb` → **Restart & Run All**.
 
 or
 
-2. Manually modify the example user in the notebook (part - "Visualization of prediction with brobability cloud") and run (shift+ENTER) the prediction script in notebook:
+2. Manually modify the example user in the notebook (part - "Visualization of prediction with brobability cloud"):
 ```python
 new_user = pd.DataFrame([{
     "Age": 27,
@@ -154,7 +154,7 @@ new_user = pd.DataFrame([{
     "Sleep_Quality(1-10)": 6
 }])
 ```
-Re-run the prediction cells to generate a new probability cloud.
+Re-run (shift+ENTER) the prediction cells to generate a new probability cloud.
 
 ---
 
