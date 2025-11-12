@@ -20,6 +20,7 @@ Social media has become an integral part of modern life, but its impact on well�
 - **Scikit-Learn** – modeling (Random Forest)
 - **Optuna** – hyperparameter tuning
 - **Feature-engine**, **SciPy** – transformations and statistical analysis
+- **Gradio** - interface builder for ML model that renders in browser
 
 **Key components:**
 - Dataset: `Mental_Health_and_Social_Media_Balance_Dataset.csv`
@@ -59,12 +60,33 @@ Social media has become an integral part of modern life, but its impact on well�
 ## Key Findings
 ![Correlation Heatmap](correlation_heatmap.png)
 
+- Higher usage of Social media tends to correlate with higher stress levels
 - Low screen time + regular exercise yields the **highest happiness**
 - **Instagram** users show **lower average happiness**
 - Sleep quality strongly predicts both happiness and stress
 - Stress levels are similar across demographics
 
 <img src="Stress_Level_vs_Daily_Screen_Time_(hrs).png" alt="Stress vs Screen Time" width="600" height="600">
+
+---
+
+## Machine Learning Model
+Data Analysis notebook contains intertainment ML Model that predicts happiness and stress levels with probability visualization by users input values (age, sleep quality,  screen time, etc.) 
+
+<img src="predictinout.png" alt="Prediction App interface" style="width: 100%">
+<p align="center">
+  <img src="predictvis.png" alt="Probability cloud visualisation" width="600">
+</p>
+
+
+Model Performance Metrics
+```
+MAE: 0.827
+RMSE: 1.016
+R2: 0.569
+```
+
+Those metrics are actually quite solid for a psychological / behavioral regression model — especially considering: 2 targets (multi-output), very noisy human self-reported variables, non-linear interaction effects, small dataset.
 
 ---
 
@@ -79,7 +101,7 @@ pip install -r requirements.txt
 ```
 Or manually install using terminal:
 ```
-pip install pandas==2.3.3 numpy==2.3.4 matplotlib==3.9.2 seaborn==0.13.2 plotly==6.4.0 scikit-learn==1.7.2 optuna==4.6.0 feature-engine==1.9.3 scipy==1.16.3 jupyter==1.1.1 notebook==7.2.2
+pip install pandas==2.3.3 numpy==2.3.4 matplotlib==3.9.2 seaborn==0.13.2 plotly==6.4.0 scikit-learn==1.7.2 optuna==4.6.0 feature-engine==1.9.3 scipy==1.16.3 jupyter==1.1.1 notebook==7.2.2 gradio==3.43.0
 ```
 ---
 
