@@ -138,7 +138,11 @@ jupyter notebook
 Open `da_social_media_stress.ipynb` → **Restart & Run All**.
 
 ### **4. Make predictions**
-Modify the example user in the notebook:
+1. Find "Gradio Interface" in notebook and run (shift+ENTER) to use interface of the App on local URL:  http://127.0.0.1:7862
+
+or
+
+2. Manually modify the example user in the notebook (part - "Visualization of prediction with brobability cloud") and run (shift+ENTER) the prediction script in notebook:
 ```python
 new_user = pd.DataFrame([{
     "Age": 27,
