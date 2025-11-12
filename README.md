@@ -67,6 +67,10 @@ Social media has become an integral part of modern life, but its impact on wellâ
 - Stress levels are similar across demographics
 
 <img src="Stress_Level_vs_Daily_Screen_Time_(hrs).png" alt="Stress vs Screen Time" width="600" height="600">
+<img src="platform.png" alt="Stress vs Screen Time" width="1000">
+<img src="complex.png" alt="Complex visualisation" width="700">
+<img src="3d.png" alt="3D visualization" width="700">
+* Balance is the relation metric of detox methods (days without social media, frequent exercises) and screen time.
 
 ---
 
