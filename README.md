@@ -65,6 +65,8 @@ Social media has become an integral part of modern life, but its impact on wellâ
 - Sleep quality strongly predicts both happiness and stress
 - Stress levels are similar across demographics
 
+![Stress_Level_vs_Daily_Screen_Time_(hrs)](Stress_Level_vs_Daily_Screen_Time_(hrs).png)
+
 ---
 
 ## Requirements
