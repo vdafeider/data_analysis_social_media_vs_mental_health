@@ -1,0 +1,12 @@
+python==3.13
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+optuna
+feature-engine
+scipy
+jupyter
+notebook
