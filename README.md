@@ -58,6 +58,7 @@ Social media has become an integral part of modern life, but its impact on wellâ
 ---
 
 ## Key Findings
+After the correlation study of the visuals attached below, we can observe some relationships between data parameters that may lead to the following conclusions:
 ![Correlation Heatmap](correlation_heatmap.png)
 
 - Higher usage of Social media tends to correlate with higher stress levels
