@@ -74,6 +74,7 @@ Notebook sctructure:
 After the correlation study of the visuals attached below, we can observe some relationships between data parameters that may lead to the following conclusions:
 ![Correlation Heatmap](correlation_heatmap.png)
 
+- Majority of social media users spent at least 4 - 6 hours daily at screen
 - Higher usage of Social media tends to correlate with higher stress levels
 - Higher stress levels always lead to lower happiness index
 - Low screen time + regular exercise yields the **highest happiness**
