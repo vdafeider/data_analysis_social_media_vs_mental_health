@@ -39,7 +39,7 @@ Social media has become an integral part of modern life, but its impact on wellâ
 ## Dataset
 **File:** Mental_Health_and_Social_Media_Balance_Dataset.csv  
 **Source:** Kaggle  
-**Data Source Link:** https://www.kaggle.com/datasets/ayeshaimran123/social-media-and-mental-health-balance/data  
+**Data Source Link:** [open](https://www.kaggle.com/datasets/ayeshaimran123/social-media-and-mental-health-balance/data)  
 **Size:** 500 rows
 
 | Column | Description |
@@ -82,7 +82,7 @@ After the correlation study of the visuals attached below, we can observe some r
 - Sleep quality strongly predicts both happiness and stress
 - Stress levels are similar across demographics
 - To avoid measurable harmful impact of social media on menthal health of users the recommended daily screen time should be less than 1 hour combined with detox (exercises and days without SM)
-- to see more insights open the notebook
+- to see more insights open the [notebook](https://github.com/vdafeider/data_analysis_social_media_vs_mental_health/blob/main/da_social_media_stress.ipynb)  
 
 <img src="Stress_Level_vs_Daily_Screen_Time_(hrs).png" alt="Stress vs Screen Time" width="600" height="600">
 <img src="platform.png" alt="Stress vs Screen Time" width="1000">
