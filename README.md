@@ -61,6 +61,7 @@ Social media has become an integral part of modern life, but its impact on wellâ
 ![Correlation Heatmap](correlation_heatmap.png)
 
 - Higher usage of Social media tends to correlate with higher stress levels
+- Higher stress levels always lead to lower happiness index
 - Low screen time + regular exercise yields the **highest happiness**
 - **Instagram** users show **lower average happiness**
 - Sleep quality strongly predicts both happiness and stress
