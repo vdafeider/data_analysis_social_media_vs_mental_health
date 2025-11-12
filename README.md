@@ -85,7 +85,7 @@ After the correlation study of the visuals attached below, we can observe some r
 <img src="platform.png" alt="Stress vs Screen Time" width="1000">
 <img src="complex.png" alt="Complex visualisation" width="700">
 <img src="3d.png" alt="3D visualization" width="700">
-* Balance is the relation metric of detox methods (days without social media, frequent exercises) and screen time.
+* Balance is the relation metric of detox index (days without social media, frequent exercises) devided by screen time.
 
 ---
 
