@@ -24,8 +24,6 @@ Social media has become an integral part of modern life, but its impact on well�
 **Key components:**
 - Dataset: `Mental_Health_and_Social_Media_Balance_Dataset.csv`
 - Notebook: `da_social_media_stress.ipynb`
-- Model: Random Forest Regressor
-- Visualization: Interactive probability cloud
 
 ---
 
@@ -33,13 +31,14 @@ Social media has become an integral part of modern life, but its impact on well�
 - Analyze the impact of screen time on stress, sleep, and happiness
 - Evaluate lifestyle factors (exercise, social media‑free days)
 - Compare mental health across age groups, gender, and platforms
-- Study correlations and develop a predictive model
+- Study correlations and develop a predictive model with interactive probability cloud
 
 ---
 
 ## Dataset
 **File:** Mental_Health_and_Social_Media_Balance_Dataset.csv  
 **Source:** Kaggle  
+**Data Source Link:** https://www.kaggle.com/datasets/ayeshaimran123/social-media-and-mental-health-balance/data  
 **Size:** 500 rows
 
 | Column | Description |
@@ -50,7 +49,7 @@ Social media has become an integral part of modern life, but its impact on well�
 | Daily_Screen_Time(hrs) | Average daily screen time |
 | Sleep_Quality(1-10) | Self‑reported sleep quality |
 | Stress_Level(1-10) | Self‑reported stress |
-| Days_Without_Social_Media | Days per week not using social media |
+| Days_Without_Social_Media | Days per month not using social media |
 | Exercise_Frequency(week) | Weekly exercise frequency |
 | Social_Media_Platform | Main platform used |
 | Happiness_Index(1-10) | Self‑reported happiness |
@@ -70,23 +69,18 @@ Social media has become an integral part of modern life, but its impact on well�
 ---
 
 ## Requirements
-Use the included `requirements.txt` for installation:
+To use the notebook with analysis
+
+1. Install Python from the official website : https://www.python.org/downloads/
+
+2. Use the included `requirements.txt` for installation:
 ```
 pip install -r requirements.txt
 ```
-Or manually install:
+Or manually install using terminal:
 ```
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-scikit-learn
-optuna
-feature-engine
-scipy
+pip install pandas==2.3.3 numpy==2.3.4 matplotlib==3.9.2 seaborn==0.13.2 plotly==6.4.0 scikit-learn==1.7.2 optuna==4.6.0 feature-engine==1.9.3 scipy==1.16.3 jupyter==1.1.1 notebook==7.2.2
 ```
-
 ---
 
 ## How to Reproduce
@@ -155,4 +149,4 @@ This project is licensed under the **MIT License**.
 **Volodymyr Babunych**  
 📧 vbabunych@gmail.com  
 📍 United Kingdom  
-🗓️ November 11, 2025
+🗓️ November 12, 2025
