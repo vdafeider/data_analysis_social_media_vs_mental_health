@@ -92,6 +92,8 @@ After the correlation study of the visuals attached below, we can observe some r
 ## Machine Learning Model
 Data Analysis notebook contains intertainment ML Model that predicts happiness and stress levels with probability visualization by users input values (age, sleep quality,  screen time, etc.) 
 
+Below is App interface and prediction example:
+
 <img src="predictinout.png" alt="Prediction App interface" style="width: 100%">
 <p align="center">
   <img src="predictvis.png" alt="Probability cloud visualisation" width="600">
@@ -187,6 +189,18 @@ If you plan to contribute regularly, consider adding:
 
 ## License
 This project is licensed under the **MIT License**.
+
+---
+
+## Credits and Acknowledgements
+
+The content of this project represents the understanding gained from the walkthrough projects provided by **Code Institute**.  
+
+Some bugs and issues appeared within the project, which were fixed using resources such as **Stack Overflow**, **YouTube**, **ChatGPT**, **Copilot**, and Python libraries’ official websites.  
+
+I also explored in more detail various concepts used in **machine learning** through YouTube tutorials.  
+
+A huge thanks to **John**, who introduced me to this course.
 
 ---
 
