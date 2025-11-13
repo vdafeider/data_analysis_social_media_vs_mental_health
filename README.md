@@ -58,15 +58,46 @@ Social media has become an integral part of modern life, but its impact on wellâ
 ---
 
 ## Notebook
-Notebook sctructure:
-- Title, main objectives and key questions
-- Import libraries
-- Load data
-- Check the data (cleaning and preprocessing)
-- Feature Engeeniring
-- Exploratory Data Analysis (EDA) with visualizations and insights
-- Machine Learning
-- Grand Summary
+
+Notebook Structure:
+
+Title, main objectives and key questions
+1. Import of Libraries
+
+2. Load data
+
+3. Check the data for cleaning and preprocessing needs
+   - shape
+   - head and tail
+   - info (amount and dtypes)
+   - missing values
+   - duplicates
+   - describe (validating data quality)
+   - unique values
+   - unnecessary drops
+   - multicollinearity
+
+   3.1 Feature Engineering
+       - creating feature columns
+
+4. Exploratory Data Analysis (EDA) with visualizations and insights
+   - distribution
+   - matrix relations (correlations)
+   - categorical vs numerical boxplots
+   - individual pairs dependencies
+   - complex visualisation
+   - violinplots
+   - feature engineered columns analysis; 3D visualisation
+
+5. Machine Learning
+   - low correlation columns detect for drop reasons
+   - ML model + parameters
+   - model preciseness metrics
+   - visualization of mistakes frames
+   - visualization of prediction with probability cloud
+   - APP for predictions with browser-based interface
+
+7. Grand Summary
   
 ---
 
