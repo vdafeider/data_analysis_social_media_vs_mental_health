@@ -136,9 +136,9 @@ Below is App interface and prediction example:
 
 Model Performance Metrics
 ```
-MAE: 0.827
-RMSE: 1.016
-R2: 0.569
+MAE: 0.831
+RMSE: 1.020
+R2: 0.565
 ```
 
 Those metrics are actually quite solid for a psychological / behavioral regression model — especially considering: 2 targets (multi-output), very noisy human self-reported variables, non-linear interaction effects, small dataset.
