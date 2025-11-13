@@ -234,7 +234,7 @@ Some bugs and issues appeared within the project, which were fixed using resourc
 
 I also explored in more detail various concepts used in **machine learning** through YouTube tutorials.  
 
-A huge thanks to **John**, who introduced me to this course.
+A huge thanks to **John Anih**, who introduced me to this course.
 
 ---
 
