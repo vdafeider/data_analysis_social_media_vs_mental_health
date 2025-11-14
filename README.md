@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3130/)
 
-This repository contains a **data analysis project done in Python** exploring how **social media usage**, **screen time**, and **lifestyle habits** affect **mental health indicators** such as happiness, stress, and sleep quality.
+This repository contains a **data analysis project done in Python** exploring how **social media usage**, **screen time**, and **lifestyle habits** affect **mental health indicators** such as happiness, stress, and sleep quality — and delivers an **interactive AI coach** that **predicts stress & happiness**.
 
 The project uses a **dataset of 500 users** and a **Jupyter Notebook** to perform descriptive statistics, EDA, ML modeling, and visualization.
 
@@ -112,7 +112,7 @@ After the correlation study of the visuals attached below, we can observe some r
 - **Instagram** users show **lower average happiness**
 - Sleep quality strongly predicts both happiness and stress
 - Stress levels are similar across demographics
-- To avoid measurable harmful impact of social media on menthal health of users the recommended daily screen time should be less than 1 hour combined with detox (exercises and days without SM)
+- To avoid measurable harmful impact of social media on mental health of users the recommended daily screen time should be less than 1 hour combined with detox (exercises and days without SM)
 - to see more insights open the [notebook](https://github.com/vdafeider/data_analysis_social_media_vs_mental_health/blob/main/da_social_media_stress.ipynb)  
 
 <img src="Stress_Level_vs_Daily_Screen_Time_(hrs).png" alt="Stress vs Screen Time" width="600" height="600">
@@ -230,9 +230,7 @@ This project is licensed under the **MIT License**.
 
 The content of this project represents the understanding gained from the walkthrough projects provided by **Code Institute**.  
 
-Some bugs and issues appeared within the project, which were fixed using resources such as **Stack Overflow**, **YouTube**, **ChatGPT**, **Copilot**, and Python libraries’ official websites.  
-
-I also explored in more detail various concepts used in **machine learning** through YouTube tutorials.  
+Issues encountered during development were resolved by **leveraging official documentation, community forums, and best practices** from resources including Stack Overflow, Python library documentation, and YouTube tutorials. 
 
 A huge thanks to **John Anih**, who introduced me to this course.
 
