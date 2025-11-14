@@ -88,6 +88,7 @@ Title, main objectives and key questions
    - complex visualisation
    - violinplots
    - feature engineered columns analysis; 3D visualisation
+   - pseudocausal analysis (hypothesis testing)
 
 5. Machine Learning
    - low correlation columns detect for drop reasons
