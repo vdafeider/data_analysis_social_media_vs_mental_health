@@ -1,6 +1,6 @@
 # Mental Health and Social Media Balance Analysis
 
-![Project Banner](image1.jpg)
+![Project Banner](./Images/image1.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3130/)
@@ -104,7 +104,7 @@ Title, main objectives and key questions
 
 ## Key Findings
 After the correlation study of the visuals attached below, we can observe some relationships between data parameters that may lead to the following conclusions:
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](./Images/correlation_heatmap.png)
 
 - Majority of social media users spent at least 4 - 6 hours daily at screen
 - Higher usage of Social media tends to correlate with higher stress levels
@@ -116,22 +116,22 @@ After the correlation study of the visuals attached below, we can observe some r
 - To avoid measurable harmful impact of social media on mental health of users the recommended daily screen time should be less than 1 hour combined with detox (exercises and days without SM)
 - to see more insights open the [notebook](https://github.com/vdafeider/data_analysis_social_media_vs_mental_health/blob/main/da_social_media_stress.ipynb)  
 
-<img src="Stress_Level_vs_Daily_Screen_Time_(hrs).png" alt="Stress vs Screen Time" width="600" height="600">
-<img src="platform.png" alt="Stress vs Screen Time" width="1000">
-<img src="complex.png" alt="Complex visualisation" width="700">
-<img src="3d.png" alt="3D visualization" width="700">
+<img src="./Images/Stress_Level_vs_Daily_Screen_Time_(hrs).png" alt="Stress vs Screen Time" width="600" height="600">
+<img src="./Images/platform.png" alt="Stress vs Screen Time" width="1000">
+<img src="./Images/complex.png" alt="Complex visualisation" width="700">
+<img src="./Images/3d.png" alt="3D visualization" width="700">
 * Balance Score is the relation metric of detox index (days without social media, frequent exercises) divided by screen time.
 
 ---
 
 ## Machine Learning Model
-Data Analysis notebook contains intertainment ML Model that predicts happiness and stress levels with probability visualization by users input values (age, sleep quality,  screen time, etc.) 
+Data Analysis notebook contains entertainment ML Model that predicts happiness and stress levels with probability visualization by users input values (age, sleep quality,  screen time, etc.) 
 
 Below is App interface and prediction example:
 
-<img src="predictinout.png" alt="Prediction App interface" style="width: 100%">
+<img src="./Images/predictinout.png" alt="Prediction App interface" style="width: 100%">
 <p align="center">
-  <img src="predictvis.png" alt="Probability cloud visualisation" width="600">
+  <img src="./Images/predictvis.png" alt="Probability cloud visualisation" width="600">
 </p>
 
 
@@ -142,7 +142,7 @@ RMSE: 1.020
 R2: 0.565
 ```
 
-Those metrics are actually quite solid for a psychological / behavioral regression model — especially considering: 2 targets (multi-output), very noisy human self-reported variables, non-linear interaction effects, small dataset.
+Those metrics are actually quite solid for a psychological / behavioural regression model — especially considering: 2 targets (multi-output), very noisy human self-reported variables, non-linear interaction effects, small dataset.
 
 ---
 
