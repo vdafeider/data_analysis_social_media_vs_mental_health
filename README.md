@@ -114,7 +114,7 @@ After the correlation study of the visuals attached below, we can observe some r
 - Sleep quality strongly predicts both happiness and stress
 - Stress levels are similar across demographics
 - To avoid measurable harmful impact of social media on mental health of users the recommended daily screen time should be less than 1 hour combined with detox (exercises and days without SM)
-- to see more insights open the [notebook](https://github.com/vdafeider/data_analysis_social_media_vs_mental_health/blob/main/da_social_media_stress.ipynb)  
+- to see more insights open the [notebook](https://github.com/vdafeider/data_analysis_social_media_vs_mental_health/blob/main/Notebook/da_social_media_stress.ipynb)  
 
 <img src="./Images/Stress_Level_vs_Daily_Screen_Time_(hrs).png" alt="Stress vs Screen Time" width="600" height="600">
 <img src="./Images/platform.png" alt="Stress vs Screen Time" width="1000">
